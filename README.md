@@ -1,4 +1,4 @@
-## Hi, I am Vinícius R.B
+## Hi, I am F. Vinícius 
 
 <div align="center">
   <a href="https://github.com/felipevbrito">
